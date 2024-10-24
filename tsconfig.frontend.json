@@ -4,7 +4,7 @@
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
     "lib": ["ESNext", "DOM"],
-    "outDir": "./dist",
+    "outDir": "./frontend/assets/js",
     "strict": true,
     "esModuleInterop": true
   },
